@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin MacBook-Pro-683.local 21.6.0 Darwin Kernel Version 21.6.0: Sun Nov  6 23:31:09 PST 2022; root:xnu-8020.240.14~1/RELEASE_ARM64_T8110 arm64
+SHELL:	[/bin/bash]
+GIT:	[/usr/local/bin/git] git version 2.33.0
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 9.0 (2022 Jun 28, compiled Nov 13 2022 20:35:12)
+CURL:	[/Users/mateo/opt/anaconda3/bin/curl] curl 7.82.0 (x86_64-apple-darwin13.4.0) libcurl/7.82.0 OpenSSL/1.1.1n zlib/1.2.12 libssh2/1.10.0 nghttp2/1.46.0
+NODE:	[/Users/mateo/.nvm/versions/node/v18.13.0/bin/node] v18.13.0
